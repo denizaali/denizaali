@@ -12,6 +12,7 @@
 * 💡 **Öğrenmeye Aşık & Üreten:** Teknoloji dünyasındaki yenilikleri keşfetmek, sürekli kendimi geliştirmek ve fikirlerimi somut ürünlere dönüştürmek en büyük motivasyonum.
 * ✍️ **Yazar, Çizer, Okur:** Sadece kod satırlarıyla değil; yazarak düşüncelerimi aktaran, çizerek hayal gücümü görselleştiren ve okuyarak ufkumu genişleten çok yönlü bir yapıya sahibim.
 
+"İki günü birbirine eşit olan ziyandadır (zarardadır)."
 
 ---
 
